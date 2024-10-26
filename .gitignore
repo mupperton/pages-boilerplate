@@ -1,0 +1,5 @@
+.DS_Store
+Icon[/r]
+
+node_modules/
+dist/
